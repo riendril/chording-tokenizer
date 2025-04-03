@@ -468,27 +468,6 @@ def process_tokens_sequentially(
 
 
 # ------------------
-# Utility Functions
-# ------------------
-
-
-def format_token_result(index: int, token_data: Dict) -> str:
-    """Format token result for display."""
-    return (
-        f"{index+1}. Token: '{token_data['token']}' | "
-        f"Score: {token_data['score']:.2f} | "
-        f"Freq: {token_data['frequency']} | "
-        f"Difficulty: {token_data['difficulty']:.2f}"
-    )
-
-
-def print_results(results: List[Dict]) -> None:
-    """Print formatted token results."""
-    for i, result in enumerate(results):
-        print(format_token_result(i, result))
-
-
-# ------------------
 # Advanced Analysis
 # ------------------
 
@@ -592,8 +571,24 @@ def analyze_token_context(
 
 
 # ------------------
-# Example Usage
+# Utility Functions
 # ------------------
+
+
+def format_token_result(index: int, token_data: Dict) -> str:
+    """Format token result for display."""
+    return (
+        f"{index+1}. Token: '{token_data['token']}' | "
+        f"Score: {token_data['score']:.2f} | "
+        f"Freq: {token_data['frequency']} | "
+        f"Difficulty: {token_data['difficulty']:.2f}"
+    )
+
+
+def print_results(results: List[Dict]) -> None:
+    """Print formatted token results."""
+    for i, result in enumerate(results):
+        print(format_token_result(i, result))
 
 
 def read_corpus_from_file(file_path: str) -> str:
@@ -602,13 +597,73 @@ def read_corpus_from_file(file_path: str) -> str:
         return file.read()
 
 
+def print_help():
+    """Print detailed help information about the program."""
+    help_text = """
+Token Analyzer for Chording Keyboard Layout Optimization
+--------------------------------------------------------
+
+DESCRIPTION:
+    This program analyzes text to identify tokens (characters, character n-grams, 
+    words, word n-grams) that would benefit most from chording on a custom keyboard layout.
+    It scores tokens based on typing difficulty, length, and frequency in the input text.
+
+USAGE:
+    python script.py [corpus_file] [options]
+
+ARGUMENTS:
+    corpus_file            Path to a text file to analyze (optional, uses sample text if omitted)
+
+OPTIONS:
+    -n, --top_n N         Number of top tokens to display (default: 20)
+    -a, --advanced        Perform advanced context analysis (default: True)
+    -p, --parallel        Use parallel processing for large token sets (default: True)
+    -o, --output FILE     Save results to specified file
+    -q, --quiet           Suppress progress output
+    -h, --help            Display this help message and exit
+
+EXAMPLES:
+    # Analyze a text file and show top 50 tokens
+    python script.py mytext.txt -n 50
+
+    # Analyze with advanced context and save to file
+    python script.py mytext.txt --advanced --output results.txt
+
+    # Run quietly with only basic analysis
+    python script.py mytext.txt --quiet --advanced=False
+
+OUTPUT FORMAT:
+    For each token, the program displays:
+    - Token: The actual text string
+    - Score: Combined metric of frequency and typing efficiency
+    - Freq: Number of occurrences in the corpus
+    - Difficulty: Typing difficulty score (lower is easier)
+
+ABOUT SCORING:
+    The score is calculated based on:
+    - Token frequency (more frequent tokens score higher)
+    - Token length (longer tokens get a non-linear bonus)
+    - Typing difficulty (based on key positions and finger usage)
+    - Context transitions (in advanced mode)
+    
+    Higher scores indicate tokens that would benefit more from chording.
+"""
+    print(help_text)
+
+
+# ------------------
+# Main
+# ------------------
+
+
 def main():
     import argparse
     import sys
 
     # Set up argument parser
     parser = argparse.ArgumentParser(
-        description="Analyze tokens from a text corpus for chording efficiency"
+        description="Analyze tokens from a text corpus for chording efficiency",
+        add_help=False,  # Disable default help to use our custom help
     )
     parser.add_argument("corpus_file", nargs="?", help="Path to the corpus file")
     parser.add_argument(
@@ -632,6 +687,14 @@ def main():
     parser.add_argument(
         "-q", "--quiet", action="store_true", help="Suppress progress output"
     )
+    parser.add_argument(
+        "-h", "--help", action="store_true", help="Show detailed help information"
+    )
+
+    # Check for help flag first
+    if "-h" in sys.argv or "--help" in sys.argv:
+        print_help()
+        sys.exit(0)
 
     # Parse arguments
     if len(sys.argv) > 1:
