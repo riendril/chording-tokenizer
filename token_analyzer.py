@@ -1,8 +1,6 @@
 import re
-import itertools
-import heapq
 from collections import Counter
-from typing import Dict, List, Tuple, Set, Callable, Any, Iterable
+from typing import Dict, List, Tuple
 from functools import reduce, partial
 
 # ----------------------
@@ -33,7 +31,7 @@ def create_keyboard_layout():
         ' ': 0, 't': 0
     }
     
-    # Finger assignments (0-7, left pinky to right pinky)
+    # Finger assignments (0-7, left pinky to right pinky, 8-9 left and right thumb)
     finger_map = {
         'j': 0, 'y': 1, 'o': 2, 'u': 3, '-': 3,
         'q': 4, 'g': 4, 'n': 5, 'w': 6, 'x': 7,
@@ -41,7 +39,7 @@ def create_keyboard_layout():
         'p': 4, 'd': 4, 'r': 5, 's': 6, 'l': 7, 'z': 7,
         'k': 0, "'": 1, '/': 2, ',': 3, ';': 3,
         'b': 4, 'c': 4, 'm': 5, 'f': 6, 'v': 7,
-        ' ': 3, 't': 4  # Space with thumbs, t with right index
+        ' ': 8, 't': 9  # Space and t with thumbs
     }
     
     return {
@@ -141,7 +139,7 @@ def same_finger(a: str, b: str, layout: Dict) -> bool:
     return a in fingers and b in fingers and fingers[a] == fingers[b]
 
 def key_distance(a: str, b: str, layout: Dict) -> float:
-    """Calculate physical distance between two keys."""
+    """Calculate physical distance between two keys ASSUMING AN ORTHO LAYOUT."""
     positions = layout['positions']
     if a not in positions or b not in positions:
         return 0
@@ -182,8 +180,8 @@ def score_token(token_freq_tuple: Tuple[str, int], layout: Dict) -> Dict:
     # Length benefit is non-linear
     length_benefit = length ** 1.5
     
-    # Final score: higher is better for chording
-    score = frequency * length_benefit / (difficulty + 1)  # +1 to avoid division by zero
+    # Final score: higher makes it more attractive for chording
+    score = frequency * length_benefit * (difficulty + 1)
     
     return {
         'token': token,
