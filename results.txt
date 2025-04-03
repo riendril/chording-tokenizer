@@ -1,200 +1,200 @@
-1. Token: 'the ' | Score: 10036269.59 | Freq: 139936 | Difficulty: 7.97
-2. Token: 'the' | Score: 6028294.07 | Freq: 161980 | Difficulty: 6.16
-3. Token: 'of ' | Score: 5182686.78 | Freq: 72795 | Difficulty: 12.70
-4. Token: ' the' | Score: 5165355.91 | Freq: 84266 | Difficulty: 6.66
-5. Token: ' of ' | Score: 4595104.90 | Freq: 36301 | Difficulty: 14.82
-6. Token: ' th' | Score: 3772104.04 | Freq: 108963 | Difficulty: 5.66
-7. Token: 'and ' | Score: 3121254.72 | Freq: 58487 | Difficulty: 5.67
-8. Token: 'of the' | Score: 2916848.87 | Freq: 9746 | Difficulty: 19.36
-9. Token: 'he ' | Score: 2769983.59 | Freq: 91867 | Difficulty: 4.80
-10. Token: ' of' | Score: 2742977.97 | Freq: 38360 | Difficulty: 12.76
-11. Token: 'of' | Score: 2501822.35 | Freq: 75990 | Difficulty: 10.64
-12. Token: 'for ' | Score: 2482258.56 | Freq: 18823 | Difficulty: 15.48
-13. Token: 'th' | Score: 2346662.77 | Freq: 134637 | Difficulty: 5.16
-14. Token: 'ing ' | Score: 2266894.22 | Freq: 23936 | Difficulty: 10.84
-15. Token: 'with' | Score: 2231885.24 | Freq: 15598 | Difficulty: 16.89
-16. Token: 'was ' | Score: 2198156.09 | Freq: 19245 | Difficulty: 13.28
-17. Token: 'in ' | Score: 2053488.54 | Freq: 45651 | Difficulty: 7.66
-18. Token: 'in' | Score: 2050720.15 | Freq: 110938 | Difficulty: 5.54
-19. Token: 'for' | Score: 1904885.90 | Freq: 24970 | Difficulty: 13.68
-20. Token: 'to ' | Score: 1861469.21 | Freq: 54104 | Difficulty: 5.62
-21. Token: ' in ' | Score: 1833670.96 | Freq: 21042 | Difficulty: 9.89
-22. Token: 'his ' | Score: 1764822.96 | Freq: 18797 | Difficulty: 10.74
-23. Token: 'and' | Score: 1721093.84 | Freq: 63011 | Difficulty: 4.26
-24. Token: 'with ' | Score: 1664825.75 | Freq: 7236 | Difficulty: 19.58
-25. Token: ' for' | Score: 1637732.21 | Freq: 12227 | Difficulty: 15.74
-26. Token: 'that' | Score: 1619584.20 | Freq: 21389 | Difficulty: 8.47
-27. Token: 'ing' | Score: 1587798.54 | Freq: 30449 | Difficulty: 9.04
-28. Token: 'is ' | Score: 1556045.17 | Freq: 32423 | Difficulty: 8.24
-29. Token: ' and' | Score: 1537546.29 | Freq: 28811 | Difficulty: 5.67
-30. Token: ' in' | Score: 1527839.59 | Freq: 33521 | Difficulty: 7.77
-31. Token: 'he' | Score: 1502234.21 | Freq: 132780 | Difficulty: 3.00
-32. Token: 'f th' | Score: 1476270.14 | Freq: 12533 | Difficulty: 13.72
-33. Token: ' to ' | Score: 1475708.49 | Freq: 25903 | Difficulty: 6.12
-34. Token: 'e ' | Score: 1459427.07 | Freq: 184098 | Difficulty: 1.80
-35. Token: 'tion' | Score: 1458202.82 | Freq: 17527 | Difficulty: 9.40
-36. Token: 'which ' | Score: 1433961.35 | Freq: 3448 | Difficulty: 27.30
-37. Token: 'of t' | Score: 1429931.48 | Freq: 12586 | Difficulty: 13.20
-38. Token: 'in the' | Score: 1363474.12 | Freq: 6056 | Difficulty: 14.32
-39. Token: ' w' | Score: 1281638.11 | Freq: 60417 | Difficulty: 6.50
-40. Token: 's ' | Score: 1268795.33 | Freq: 105897 | Difficulty: 3.24
-41. Token: 'was' | Score: 1265767.88 | Freq: 20230 | Difficulty: 11.04
-42. Token: 'from' | Score: 1257622.32 | Freq: 8777 | Difficulty: 16.91
-43. Token: ' b' | Score: 1254320.24 | Freq: 45685 | Difficulty: 8.71
-44. Token: ' was' | Score: 1204957.02 | Freq: 10358 | Difficulty: 13.54
-45. Token: 'on ' | Score: 1171123.81 | Freq: 27752 | Difficulty: 7.12
-46. Token: 'on' | Score: 1162144.14 | Freq: 68480 | Difficulty: 5.00
-47. Token: ' an' | Score: 1161786.68 | Freq: 37491 | Difficulty: 4.96
-48. Token: 'that ' | Score: 1138080.56 | Freq: 10215 | Difficulty: 8.97
-49. Token: ' co' | Score: 1133075.96 | Freq: 22227 | Difficulty: 8.81
-50. Token: 'but ' | Score: 1131160.34 | Freq: 8609 | Difficulty: 15.42
-51. Token: '. ' | Score: 1112542.30 | Freq: 48453 | Difficulty: 7.12
-52. Token: ' be' | Score: 1105501.32 | Freq: 18078 | Difficulty: 10.77
-53. Token: 'the united states' | Score: 1096887.38 | Freq: 340 | Difficulty: 45.03
-54. Token: '. th' | Score: 1094377.23 | Freq: 9927 | Difficulty: 12.78
-55. Token: 'have' | Score: 1091037.62 | Freq: 7991 | Difficulty: 16.07
-56. Token: 'f ' | Score: 1086940.20 | Freq: 42409 | Difficulty: 8.06
-57. Token: 'n th' | Score: 1078309.04 | Freq: 13777 | Difficulty: 8.78
-58. Token: ' fo' | Score: 1065727.57 | Freq: 14969 | Difficulty: 12.70
-59. Token: 'y ' | Score: 1047317.07 | Freq: 49371 | Difficulty: 6.50
-60. Token: 's of' | Score: 1044186.93 | Freq: 7679 | Difficulty: 16.00
-61. Token: 'this' | Score: 1042662.59 | Freq: 10293 | Difficulty: 11.66
-62. Token: ' f' | Score: 1041139.49 | Freq: 40622 | Difficulty: 8.06
-63. Token: 'as ' | Score: 1030984.11 | Freq: 27420 | Difficulty: 6.24
-64. Token: 'is' | Score: 1021647.68 | Freq: 51601 | Difficulty: 6.00
-65. Token: 'which' | Score: 1019401.12 | Freq: 3561 | Difficulty: 24.60
-66. Token: ' wit' | Score: 1018283.60 | Freq: 8361 | Difficulty: 14.22
-67. Token: 'ly ' | Score: 1016232.78 | Freq: 13942 | Difficulty: 13.03
-68. Token: 'by ' | Score: 1014983.98 | Freq: 10737 | Difficulty: 17.19
-69. Token: ' ' | Score: 1014939.00 | Freq: 1014939 | Difficulty: 0.00
-70. Token: ' wh' | Score: 1009381.12 | Freq: 13848 | Difficulty: 13.03
-71. Token: ', ' | Score: 1001925.53 | Freq: 57900 | Difficulty: 5.12
-72. Token: 'e of' | Score: 999467.52 | Freq: 8027 | Difficulty: 14.56
-73. Token: 'ng ' | Score: 998140.40 | Freq: 26304 | Difficulty: 6.30
-74. Token: 'an' | Score: 989417.20 | Freq: 76890 | Difficulty: 3.55
-75. Token: 'his' | Score: 979321.45 | Freq: 19839 | Difficulty: 8.50
-76. Token: 'with the' | Score: 951089.85 | Freq: 1543 | Difficulty: 26.24
-77. Token: 'from ' | Score: 948196.54 | Freq: 4351 | Difficulty: 18.49
-78. Token: 'all' | Score: 946718.19 | Freq: 13496 | Difficulty: 12.50
-79. Token: 'ed ' | Score: 919770.80 | Freq: 36020 | Difficulty: 3.91
-80. Token: 'will' | Score: 917525.78 | Freq: 4874 | Difficulty: 22.53
-81. Token: 'all ' | Score: 915852.46 | Freq: 7070 | Difficulty: 15.19
-82. Token: 'be' | Score: 900527.85 | Freq: 28783 | Difficulty: 10.06
-83. Token: 'n ' | Score: 900002.40 | Freq: 77208 | Difficulty: 3.12
-84. Token: ' is ' | Score: 896111.48 | Freq: 9764 | Difficulty: 10.47
-85. Token: ' p' | Score: 892596.31 | Freq: 38874 | Difficulty: 7.12
-86. Token: 'ion' | Score: 885325.70 | Freq: 22107 | Difficulty: 6.71
-87. Token: 've' | Score: 872760.84 | Freq: 30761 | Difficulty: 9.03
-88. Token: ' h' | Score: 869440.84 | Freq: 53999 | Difficulty: 4.69
-89. Token: 'er' | Score: 862014.08 | Freq: 76192 | Difficulty: 3.00
-90. Token: 'ion ' | Score: 861835.12 | Freq: 10961 | Difficulty: 8.83
-91. Token: 'to' | Score: 856614.61 | Freq: 67302 | Difficulty: 3.50
-92. Token: 'be ' | Score: 851872.83 | Freq: 12744 | Difficulty: 11.86
-93. Token: ' wa' | Score: 850759.46 | Freq: 15532 | Difficulty: 9.54
-94. Token: ' wi' | Score: 847714.68 | Freq: 13019 | Difficulty: 11.53
-95. Token: 'would ' | Score: 845173.50 | Freq: 2681 | Difficulty: 20.45
-96. Token: ' con' | Score: 840458.87 | Freq: 7607 | Difficulty: 12.81
-97. Token: 'from the' | Score: 839174.65 | Freq: 1418 | Difficulty: 25.15
-98. Token: ' o' | Score: 831646.61 | Freq: 71344 | Difficulty: 3.12
-99. Token: ' c' | Score: 827843.13 | Freq: 47840 | Difficulty: 5.12
-100. Token: ' s' | Score: 822128.38 | Freq: 68617 | Difficulty: 3.24
-101. Token: ' tha' | Score: 819688.57 | Freq: 12553 | Difficulty: 7.16
-102. Token: 'have ' | Score: 819394.80 | Freq: 3884 | Difficulty: 17.87
-103. Token: 'this ' | Score: 813021.18 | Freq: 4881 | Difficulty: 13.90
-104. Token: ' to' | Score: 805377.64 | Freq: 30999 | Difficulty: 4.00
-105. Token: ' i' | Score: 800010.70 | Freq: 66771 | Difficulty: 3.24
-106. Token: 'for the' | Score: 796914.23 | Freq: 1859 | Difficulty: 22.15
-107. Token: 'been' | Score: 795432.90 | Freq: 4946 | Difficulty: 19.10
-108. Token: ' by ' | Score: 787739.05 | Freq: 5210 | Difficulty: 17.90
-109. Token: 'f' | Score: 783202.00 | Freq: 111886 | Difficulty: 6.00
-110. Token: ' a' | Score: 781957.33 | Freq: 114515 | Difficulty: 1.41
-111. Token: 'were' | Score: 779569.75 | Freq: 6704 | Difficulty: 13.54
-112. Token: 'h' | Score: 776745.00 | Freq: 258915 | Difficulty: 2.00
-113. Token: 'but' | Score: 772581.01 | Freq: 9337 | Difficulty: 14.92
-114. Token: 're' | Score: 762283.74 | Freq: 67377 | Difficulty: 3.00
-115. Token: 'ther' | Score: 749081.81 | Freq: 9214 | Difficulty: 9.16
-116. Token: 'en' | Score: 745555.46 | Freq: 52286 | Difficulty: 4.04
-117. Token: 'ith ' | Score: 745318.08 | Freq: 7425 | Difficulty: 11.55
-118. Token: 'or ' | Score: 741067.68 | Freq: 20838 | Difficulty: 5.84
-119. Token: 'nd ' | Score: 738517.99 | Freq: 34486 | Difficulty: 3.12
-120. Token: 'c' | Score: 737955.00 | Freq: 147591 | Difficulty: 4.00
-121. Token: 'because ' | Score: 726193.95 | Freq: 867 | Difficulty: 36.02
-122. Token: ' his' | Score: 724629.56 | Freq: 7429 | Difficulty: 11.19
-123. Token: 'or' | Score: 721742.63 | Freq: 50616 | Difficulty: 4.04
-124. Token: 'o' | Score: 720844.00 | Freq: 360422 | Difficulty: 1.00
-125. Token: ' com' | Score: 709707.63 | Freq: 5554 | Difficulty: 14.97
-126. Token: 'es' | Score: 706693.83 | Freq: 45428 | Difficulty: 4.50
-127. Token: 'i' | Score: 702066.00 | Freq: 351033 | Difficulty: 1.00
-128. Token: 'they' | Score: 701338.19 | Freq: 7386 | Difficulty: 10.87
-129. Token: 'er ' | Score: 700765.11 | Freq: 23241 | Difficulty: 4.80
-130. Token: 'co' | Score: 694146.02 | Freq: 28233 | Difficulty: 7.69
-131. Token: 'her ' | Score: 693869.99 | Freq: 9853 | Difficulty: 7.80
-132. Token: 'al' | Score: 688087.02 | Freq: 37427 | Difficulty: 5.50
-133. Token: 'her' | Score: 687014.49 | Freq: 18888 | Difficulty: 6.00
-134. Token: 'over' | Score: 683615.85 | Freq: 4707 | Difficulty: 17.15
-135. Token: ' pro' | Score: 683447.39 | Freq: 6492 | Difficulty: 12.16
-136. Token: 'have been' | Score: 680913.55 | Freq: 652 | Difficulty: 37.68
-137. Token: 'll' | Score: 679077.07 | Freq: 24009 | Difficulty: 9.00
-138. Token: 'he s' | Score: 679070.24 | Freq: 9391 | Difficulty: 8.04
-139. Token: 'f t' | Score: 676885.09 | Freq: 13624 | Difficulty: 8.56
-140. Token: 'to the' | Score: 675880.11 | Freq: 3462 | Difficulty: 12.28
-141. Token: ' be ' | Score: 675857.47 | Freq: 6225 | Difficulty: 12.57
-142. Token: 'united states' | Score: 674713.95 | Freq: 397 | Difficulty: 35.26
-143. Token: 'n' | Score: 673818.00 | Freq: 336909 | Difficulty: 1.00
-144. Token: 'p' | Score: 673358.00 | Freq: 96194 | Difficulty: 6.00
-145. Token: ' t' | Score: 672403.39 | Freq: 158487 | Difficulty: 0.50
-146. Token: 'hat ' | Score: 668576.79 | Freq: 12285 | Difficulty: 5.80
-147. Token: 'it' | Score: 668502.42 | Freq: 50367 | Difficulty: 3.69
-148. Token: 'ver' | Score: 667366.83 | Freq: 9856 | Difficulty: 12.03
-149. Token: 'through ' | Score: 662811.15 | Freq: 947 | Difficulty: 29.93
-150. Token: 'll ' | Score: 660976.89 | Freq: 10022 | Difficulty: 11.69
-151. Token: 'b' | Score: 657747.00 | Freq: 73083 | Difficulty: 8.00
-152. Token: 'not ' | Score: 656568.00 | Freq: 9119 | Difficulty: 8.00
-153. Token: 'ent' | Score: 656391.50 | Freq: 18457 | Difficulty: 5.84
-154. Token: 'ch' | Score: 649677.58 | Freq: 21802 | Difficulty: 9.54
-155. Token: 'es ' | Score: 645938.26 | Freq: 16069 | Difficulty: 6.74
-156. Token: 'one ' | Score: 644056.17 | Freq: 7424 | Difficulty: 9.84
-157. Token: 'd ' | Score: 641933.61 | Freq: 94009 | Difficulty: 1.41
-158. Token: 'had ' | Score: 641557.81 | Freq: 10133 | Difficulty: 6.91
-159. Token: 'ment' | Score: 641184.38 | Freq: 6220 | Difficulty: 11.89
-160. Token: ' he ' | Score: 639462.59 | Freq: 9409 | Difficulty: 7.50
-161. Token: 'will ' | Score: 638861.02 | Freq: 2179 | Difficulty: 25.22
-162. Token: 'le' | Score: 632854.91 | Freq: 31964 | Difficulty: 6.00
-163. Token: 'd th' | Score: 632098.51 | Freq: 9783 | Difficulty: 7.08
-164. Token: 'government' | Score: 624007.94 | Freq: 424 | Difficulty: 45.54
-165. Token: 'when' | Score: 623792.49 | Freq: 4706 | Difficulty: 15.57
-166. Token: 's' | Score: 622200.00 | Freq: 311100 | Difficulty: 1.00
-167. Token: 'he p' | Score: 620508.96 | Freq: 6003 | Difficulty: 11.92
-168. Token: ' m' | Score: 619404.96 | Freq: 39238 | Difficulty: 4.58
-169. Token: 'me' | Score: 619069.99 | Freq: 31084 | Difficulty: 6.04
-170. Token: 'are ' | Score: 617925.77 | Freq: 9303 | Difficulty: 7.30
-171. Token: 'ic' | Score: 617406.24 | Freq: 24143 | Difficulty: 8.04
-172. Token: ' he' | Score: 613477.74 | Freq: 17641 | Difficulty: 5.69
-173. Token: 'he c' | Score: 612613.74 | Freq: 7012 | Difficulty: 9.92
-174. Token: 'in t' | Score: 610212.77 | Freq: 8330 | Difficulty: 8.16
-175. Token: 'fo' | Score: 610162.83 | Freq: 18533 | Difficulty: 10.64
-176. Token: 'al ' | Score: 610115.88 | Freq: 12773 | Difficulty: 8.19
-177. Token: ' ha' | Score: 609453.81 | Freq: 16307 | Difficulty: 6.19
-178. Token: 'would' | Score: 609291.09 | Freq: 2720 | Difficulty: 19.04
-179. Token: 'atio' | Score: 607638.59 | Freq: 9260 | Difficulty: 7.20
-180. Token: ' whi' | Score: 605828.45 | Freq: 4877 | Difficulty: 14.53
-181. Token: 'e th' | Score: 602373.19 | Freq: 8895 | Difficulty: 7.47
-182. Token: 'been ' | Score: 601308.82 | Freq: 2420 | Difficulty: 21.22
-183. Token: 'con' | Score: 599509.07 | Freq: 9090 | Difficulty: 11.69
-184. Token: 'as' | Score: 598184.05 | Freq: 42298 | Difficulty: 4.00
-185. Token: 'ight' | Score: 597388.31 | Freq: 4461 | Difficulty: 15.74
-186. Token: 'ng' | Score: 595450.38 | Freq: 38277 | Difficulty: 4.50
-187. Token: 've ' | Score: 595107.69 | Freq: 9678 | Difficulty: 10.83
-188. Token: ', th' | Score: 594387.40 | Freq: 6307 | Difficulty: 10.78
-189. Token: 'e' | Score: 593202.00 | Freq: 593202 | Difficulty: 0.00
-190. Token: ', an' | Score: 592741.03 | Freq: 6686 | Difficulty: 10.08
-191. Token: 'development' | Score: 591142.36 | Freq: 333 | Difficulty: 47.66
-192. Token: 'l' | Score: 588879.00 | Freq: 196293 | Difficulty: 2.00
-193. Token: 'tio' | Score: 588225.77 | Freq: 17689 | Difficulty: 5.40
-194. Token: 'were ' | Score: 587277.15 | Freq: 3215 | Difficulty: 15.34
-195. Token: 'of a' | Score: 583107.92 | Freq: 4822 | Difficulty: 14.12
-196. Token: 'e w' | Score: 580692.08 | Freq: 12013 | Difficulty: 8.30
-197. Token: 't of' | Score: 580609.11 | Freq: 5089 | Difficulty: 13.26
-198. Token: 'ch ' | Score: 580332.21 | Freq: 8443 | Difficulty: 12.23
-199. Token: ' but' | Score: 579431.10 | Freq: 4355 | Difficulty: 15.63
-200. Token: 're ' | Score: 579161.67 | Freq: 19208 | Difficulty: 4.80
+1. Token: 'the ' | Score: 3358464.00 | Freq: 139936 | Difficulty: 2.00
+2. Token: 'of ' | Score: 3026031.32 | Freq: 72795 | Difficulty: 7.00
+3. Token: 'the' | Score: 2525018.31 | Freq: 161980 | Difficulty: 2.00
+4. Token: ' of ' | Score: 2323264.00 | Freq: 36301 | Difficulty: 7.00
+5. Token: ' the' | Score: 2022384.00 | Freq: 84266 | Difficulty: 2.00
+6. Token: 'of' | Score: 1719457.42 | Freq: 75990 | Difficulty: 7.00
+7. Token: ' th' | Score: 1698565.07 | Freq: 108963 | Difficulty: 2.00
+8. Token: ' of' | Score: 1594595.26 | Freq: 38360 | Difficulty: 7.00
+9. Token: 'of the' | Score: 1432363.62 | Freq: 9746 | Difficulty: 9.00
+10. Token: 'he ' | Score: 1432064.80 | Freq: 91867 | Difficulty: 2.00
+11. Token: 'for ' | Score: 1204672.00 | Freq: 18823 | Difficulty: 7.00
+12. Token: ' b' | Score: 1162950.24 | Freq: 45685 | Difficulty: 8.00
+13. Token: 'ing ' | Score: 1148928.00 | Freq: 23936 | Difficulty: 5.00
+14. Token: 'th' | Score: 1142432.83 | Freq: 134637 | Difficulty: 2.00
+15. Token: 'he' | Score: 1126675.66 | Freq: 132780 | Difficulty: 2.00
+16. Token: 'for' | Score: 1037983.41 | Freq: 24970 | Difficulty: 7.00
+17. Token: ' ' | Score: 1014939.00 | Freq: 1014939 | Difficulty: 0.00
+18. Token: 'with' | Score: 998272.00 | Freq: 15598 | Difficulty: 7.00
+19. Token: '. ' | Score: 959320.46 | Freq: 48453 | Difficulty: 6.00
+20. Token: 'ing' | Score: 949305.87 | Freq: 30449 | Difficulty: 5.00
+21. Token: 'in' | Score: 941340.15 | Freq: 110938 | Difficulty: 2.00
+22. Token: 'and ' | Score: 935792.00 | Freq: 58487 | Difficulty: 1.00
+23. Token: 'was ' | Score: 923760.00 | Freq: 19245 | Difficulty: 5.00
+24. Token: 'f th' | Score: 902376.00 | Freq: 12533 | Difficulty: 8.00
+25. Token: ' w' | Score: 854425.41 | Freq: 60417 | Difficulty: 4.00
+26. Token: ' be' | Score: 845424.39 | Freq: 18078 | Difficulty: 8.00
+27. Token: 'f ' | Score: 839655.36 | Freq: 42409 | Difficulty: 6.00
+28. Token: 'but ' | Score: 826464.00 | Freq: 8609 | Difficulty: 11.00
+29. Token: ', ' | Score: 818829.65 | Freq: 57900 | Difficulty: 4.00
+30. Token: 'of t' | Score: 805504.00 | Freq: 12586 | Difficulty: 7.00
+31. Token: ' f' | Score: 804274.57 | Freq: 40622 | Difficulty: 6.00
+32. Token: 'f' | Score: 783202.00 | Freq: 111886 | Difficulty: 6.00
+33. Token: ' for' | Score: 782528.00 | Freq: 12227 | Difficulty: 7.00
+34. Token: 'h' | Score: 776745.00 | Freq: 258915 | Difficulty: 2.00
+35. Token: 'from' | Score: 772376.00 | Freq: 8777 | Difficulty: 10.00
+36. Token: ' p' | Score: 769665.93 | Freq: 38874 | Difficulty: 6.00
+37. Token: 'his ' | Score: 751880.00 | Freq: 18797 | Difficulty: 4.00
+38. Token: 'c' | Score: 737955.00 | Freq: 147591 | Difficulty: 4.00
+39. Token: 'be' | Score: 732695.56 | Freq: 28783 | Difficulty: 8.00
+40. Token: 'by ' | Score: 725284.15 | Freq: 10737 | Difficulty: 12.00
+41. Token: 'o' | Score: 720844.00 | Freq: 360422 | Difficulty: 1.00
+42. Token: '. th' | Score: 714744.00 | Freq: 9927 | Difficulty: 8.00
+43. Token: 'in ' | Score: 711628.66 | Freq: 45651 | Difficulty: 2.00
+44. Token: 'which ' | Score: 709450.61 | Freq: 3448 | Difficulty: 13.00
+45. Token: 'i' | Score: 702066.00 | Freq: 351033 | Difficulty: 1.00
+46. Token: 'y ' | Score: 698211.38 | Freq: 49371 | Difficulty: 4.00
+47. Token: ' co' | Score: 692969.28 | Freq: 22227 | Difficulty: 5.00
+48. Token: 'ng ' | Score: 683397.97 | Freq: 26304 | Difficulty: 4.00
+49. Token: ' c' | Score: 676559.77 | Freq: 47840 | Difficulty: 4.00
+50. Token: 'n' | Score: 673818.00 | Freq: 336909 | Difficulty: 1.00
+51. Token: 'p' | Score: 673358.00 | Freq: 96194 | Difficulty: 6.00
+52. Token: 'b' | Score: 657747.00 | Freq: 73083 | Difficulty: 8.00
+53. Token: 'and' | Score: 654829.52 | Freq: 63011 | Difficulty: 1.00
+54. Token: 'with ' | Score: 647207.52 | Freq: 7236 | Difficulty: 7.00
+55. Token: 'was' | Score: 630708.98 | Freq: 20230 | Difficulty: 5.00
+56. Token: ' fo' | Score: 622249.64 | Freq: 14969 | Difficulty: 7.00
+57. Token: 's' | Score: 622200.00 | Freq: 311100 | Difficulty: 1.00
+58. Token: 's ' | Score: 599043.89 | Freq: 105897 | Difficulty: 1.00
+59. Token: 'be ' | Score: 595977.90 | Freq: 12744 | Difficulty: 8.00
+60. Token: 'e' | Score: 593202.00 | Freq: 593202 | Difficulty: 0.00
+61. Token: 'l' | Score: 588879.00 | Freq: 196293 | Difficulty: 2.00
+62. Token: 'but' | Score: 582197.70 | Freq: 9337 | Difficulty: 11.00
+63. Token: 'on' | Score: 581072.07 | Freq: 68480 | Difficulty: 2.00
+64. Token: 'to ' | Score: 562265.26 | Freq: 54104 | Difficulty: 1.00
+65. Token: 'tion' | Score: 560864.00 | Freq: 17527 | Difficulty: 3.00
+66. Token: 'which' | Score: 557384.66 | Freq: 3561 | Difficulty: 13.00
+67. Token: 's of' | Score: 552888.00 | Freq: 7679 | Difficulty: 8.00
+68. Token: ' by ' | Score: 541840.00 | Freq: 5210 | Difficulty: 12.00
+69. Token: 'ng' | Score: 541318.53 | Freq: 38277 | Difficulty: 4.00
+70. Token: 'from ' | Score: 535102.25 | Freq: 4351 | Difficulty: 10.00
+71. Token: ' in' | Score: 522540.68 | Freq: 33521 | Difficulty: 2.00
+72. Token: 've' | Score: 522031.48 | Freq: 30761 | Difficulty: 5.00
+73. Token: 'e ' | Score: 520707.78 | Freq: 184098 | Difficulty: 0.00
+74. Token: 'u' | Score: 516544.00 | Freq: 129136 | Difficulty: 3.00
+75. Token: 'ou' | Score: 516343.51 | Freq: 36511 | Difficulty: 4.00
+76. Token: 'his' | Score: 515432.34 | Freq: 19839 | Difficulty: 4.00
+77. Token: 'e of' | Score: 513728.00 | Freq: 8027 | Difficulty: 7.00
+78. Token: 'that' | Score: 513336.00 | Freq: 21389 | Difficulty: 2.00
+79. Token: 'have' | Score: 511424.00 | Freq: 7991 | Difficulty: 7.00
+80. Token: 'ly ' | Score: 507113.30 | Freq: 13942 | Difficulty: 6.00
+81. Token: 'is ' | Score: 505424.55 | Freq: 32423 | Difficulty: 2.00
+82. Token: ' in ' | Score: 505008.00 | Freq: 21042 | Difficulty: 2.00
+83. Token: ' wh' | Score: 503694.23 | Freq: 13848 | Difficulty: 6.00
+84. Token: ' was' | Score: 497184.00 | Freq: 10358 | Difficulty: 5.00
+85. Token: 'f t' | Score: 495546.66 | Freq: 13624 | Difficulty: 6.00
+86. Token: 'm' | Score: 483664.00 | Freq: 120916 | Difficulty: 3.00
+87. Token: 'co' | Score: 479129.90 | Freq: 28233 | Difficulty: 5.00
+88. Token: ' and' | Score: 460976.00 | Freq: 28811 | Difficulty: 1.00
+89. Token: 'ion' | Score: 459485.37 | Freq: 22107 | Difficulty: 3.00
+90. Token: ' h' | Score: 458196.71 | Freq: 53999 | Difficulty: 2.00
+91. Token: ' t' | Score: 448268.93 | Freq: 158487 | Difficulty: 0.00
+92. Token: ' be ' | Score: 448200.00 | Freq: 6225 | Difficulty: 8.00
+93. Token: 'w' | Score: 446300.00 | Freq: 89260 | Difficulty: 4.00
+94. Token: 'in the' | Score: 445023.30 | Freq: 6056 | Difficulty: 4.00
+95. Token: ' m' | Score: 443927.29 | Freq: 39238 | Difficulty: 3.00
+96. Token: 'n th' | Score: 440864.00 | Freq: 13777 | Difficulty: 3.00
+97. Token: 't' | Score: 439123.00 | Freq: 439123 | Difficulty: 0.00
+98. Token: 'is' | Score: 437849.00 | Freq: 51601 | Difficulty: 2.00
+99. Token: 'n ' | Score: 436754.40 | Freq: 77208 | Difficulty: 1.00
+100. Token: 'an' | Score: 434955.52 | Freq: 76890 | Difficulty: 1.00
+101. Token: 'would ' | Score: 433427.41 | Freq: 2681 | Difficulty: 10.00
+102. Token: 'on ' | Score: 432610.87 | Freq: 27752 | Difficulty: 2.00
+103. Token: ' pr' | Score: 432293.90 | Freq: 11885 | Difficulty: 6.00
+104. Token: 'he p' | Score: 432216.00 | Freq: 6003 | Difficulty: 8.00
+105. Token: 'ch' | Score: 431657.58 | Freq: 21802 | Difficulty: 6.00
+106. Token: ' bu' | Score: 426500.19 | Freq: 6840 | Difficulty: 11.00
+107. Token: ' con' | Score: 425992.00 | Freq: 7607 | Difficulty: 6.00
+108. Token: 'fo' | Score: 419353.92 | Freq: 18533 | Difficulty: 7.00
+109. Token: 'you ' | Score: 418320.00 | Freq: 5810 | Difficulty: 8.00
+110. Token: ' but' | Score: 418080.00 | Freq: 4355 | Difficulty: 11.00
+111. Token: 'from the' | Score: 417113.80 | Freq: 1418 | Difficulty: 12.00
+112. Token: ' pro' | Score: 415488.00 | Freq: 6492 | Difficulty: 7.00
+113. Token: ' to ' | Score: 414448.00 | Freq: 25903 | Difficulty: 1.00
+114. Token: 'they' | Score: 413616.00 | Freq: 7386 | Difficulty: 6.00
+115. Token: 'this' | Score: 411720.00 | Freq: 10293 | Difficulty: 4.00
+116. Token: 'ic' | Score: 409720.30 | Freq: 24143 | Difficulty: 5.00
+117. Token: 'by' | Score: 409392.20 | Freq: 11134 | Difficulty: 12.00
+118. Token: 'y' | Score: 408870.00 | Freq: 81774 | Difficulty: 4.00
+119. Token: ' wi' | Score: 405892.25 | Freq: 13019 | Difficulty: 5.00
+120. Token: 'a' | Score: 405255.00 | Freq: 405255 | Difficulty: 0.00
+121. Token: ' o' | Score: 403582.61 | Freq: 71344 | Difficulty: 1.00
+122. Token: ' wa' | Score: 403533.20 | Freq: 15532 | Difficulty: 4.00
+123. Token: ' wit' | Score: 401328.00 | Freq: 8361 | Difficulty: 5.00
+124. Token: ' com' | Score: 399888.00 | Freq: 5554 | Difficulty: 8.00
+125. Token: 'you' | Score: 399703.63 | Freq: 8547 | Difficulty: 8.00
+126. Token: 'been' | Score: 395680.00 | Freq: 4946 | Difficulty: 9.00
+127. Token: 'he c' | Score: 392672.00 | Freq: 7012 | Difficulty: 6.00
+128. Token: '. t' | Score: 390610.37 | Freq: 10739 | Difficulty: 6.00
+129. Token: 'will' | Score: 389920.00 | Freq: 4874 | Difficulty: 9.00
+130. Token: ' an' | Score: 389617.90 | Freq: 37491 | Difficulty: 1.00
+131. Token: ' s' | Score: 388156.37 | Freq: 68617 | Difficulty: 1.00
+132. Token: 'to' | Score: 380717.60 | Freq: 67302 | Difficulty: 1.00
+133. Token: ' i' | Score: 377713.82 | Freq: 66771 | Difficulty: 1.00
+134. Token: 'g' | Score: 370712.00 | Freq: 92678 | Difficulty: 3.00
+135. Token: 'hi' | Score: 367231.66 | Freq: 32459 | Difficulty: 3.00
+136. Token: ' by' | Score: 360379.15 | Freq: 5335 | Difficulty: 12.00
+137. Token: 'nd ' | Score: 358389.02 | Freq: 34486 | Difficulty: 1.00
+138. Token: ', th' | Score: 353192.00 | Freq: 6307 | Difficulty: 6.00
+139. Token: 'because ' | Score: 353123.47 | Freq: 867 | Difficulty: 17.00
+140. Token: ' you' | Score: 352656.00 | Freq: 4898 | Difficulty: 8.00
+141. Token: 'e b' | Score: 351769.13 | Freq: 7522 | Difficulty: 8.00
+142. Token: 'me' | Score: 351675.31 | Freq: 31084 | Difficulty: 3.00
+143. Token: 'ion ' | Score: 350752.00 | Freq: 10961 | Difficulty: 3.00
+144. Token: 'all' | Score: 350636.37 | Freq: 13496 | Difficulty: 4.00
+145. Token: 'with the' | Score: 349141.04 | Freq: 1543 | Difficulty: 9.00
+146. Token: 'e p' | Score: 348744.97 | Freq: 9588 | Difficulty: 6.00
+147. Token: '.' | Score: 347718.00 | Freq: 49674 | Difficulty: 6.00
+148. Token: 'have ' | Score: 347395.52 | Freq: 3884 | Difficulty: 7.00
+149. Token: 's. ' | Score: 345273.94 | Freq: 8306 | Difficulty: 7.00
+150. Token: 'for the' | Score: 344291.62 | Freq: 1859 | Difficulty: 9.00
+151. Token: 'pe' | Score: 344007.45 | Freq: 17375 | Difficulty: 6.00
+152. Token: 'ly' | Score: 343472.88 | Freq: 17348 | Difficulty: 6.00
+153. Token: 'that ' | Score: 342621.52 | Freq: 10215 | Difficulty: 2.00
+154. Token: 'whic' | Score: 342528.00 | Freq: 3568 | Difficulty: 11.00
+155. Token: 'll' | Score: 339538.53 | Freq: 24009 | Difficulty: 4.00
+156. Token: 'would' | Score: 334515.77 | Freq: 2720 | Difficulty: 10.00
+157. Token: 'about ' | Score: 334164.29 | Freq: 1749 | Difficulty: 12.00
+158. Token: 'con' | Score: 330631.18 | Freq: 9090 | Difficulty: 6.00
+159. Token: 'he f' | Score: 326952.00 | Freq: 4541 | Difficulty: 8.00
+160. Token: 'com' | Score: 326328.76 | Freq: 6978 | Difficulty: 8.00
+161. Token: 't of' | Score: 325696.00 | Freq: 5089 | Difficulty: 7.00
+162. Token: ' a' | Score: 323897.33 | Freq: 114515 | Difficulty: 0.00
+163. Token: 'he b' | Score: 323576.00 | Freq: 3677 | Difficulty: 10.00
+164. Token: 'e f' | Score: 322847.34 | Freq: 8876 | Difficulty: 6.00
+165. Token: 'ce' | Score: 322355.84 | Freq: 22794 | Difficulty: 4.00
+166. Token: ' to' | Score: 322151.06 | Freq: 30999 | Difficulty: 1.00
+167. Token: ', an' | Score: 320928.00 | Freq: 6686 | Difficulty: 5.00
+168. Token: 'ha' | Score: 319131.43 | Freq: 37610 | Difficulty: 2.00
+169. Token: 'ould' | Score: 318808.00 | Freq: 5693 | Difficulty: 6.00
+170. Token: 's, ' | Score: 318004.53 | Freq: 10200 | Difficulty: 5.00
+171. Token: 'back' | Score: 317664.00 | Freq: 2206 | Difficulty: 17.00
+172. Token: 'al' | Score: 317578.63 | Freq: 37427 | Difficulty: 2.00
+173. Token: 'd b' | Score: 317443.34 | Freq: 6788 | Difficulty: 8.00
+174. Token: 'pro' | Score: 315842.93 | Freq: 7598 | Difficulty: 7.00
+175. Token: ' whi' | Score: 312128.00 | Freq: 4877 | Difficulty: 7.00
+176. Token: 'e w' | Score: 312106.90 | Freq: 12013 | Difficulty: 4.00
+177. Token: 'comp' | Score: 310080.00 | Freq: 2584 | Difficulty: 14.00
+178. Token: 'he w' | Score: 308840.00 | Freq: 5515 | Difficulty: 6.00
+179. Token: 'of a' | Score: 308608.00 | Freq: 4822 | Difficulty: 7.00
+180. Token: 'g ' | Score: 308389.07 | Freq: 27258 | Difficulty: 3.00
+181. Token: 'ver' | Score: 307279.67 | Freq: 9856 | Difficulty: 5.00
+182. Token: 'ch ' | Score: 307097.80 | Freq: 8443 | Difficulty: 6.00
+183. Token: '. "' | Score: 306962.70 | Freq: 3475 | Difficulty: 16.00
+184. Token: 'e c' | Score: 306417.11 | Freq: 11794 | Difficulty: 4.00
+185. Token: 'pr' | Score: 306151.78 | Freq: 15463 | Difficulty: 6.00
+186. Token: ' fro' | Score: 304128.00 | Freq: 4752 | Difficulty: 7.00
+187. Token: 've ' | Score: 301730.18 | Freq: 9678 | Difficulty: 5.00
+188. Token: ' tha' | Score: 301272.00 | Freq: 12553 | Difficulty: 2.00
+189. Token: 'when' | Score: 301184.00 | Freq: 4706 | Difficulty: 7.00
+190. Token: 'he s' | Score: 300512.00 | Freq: 9391 | Difficulty: 3.00
+191. Token: 'have been' | Score: 299268.00 | Freq: 652 | Difficulty: 16.00
+192. Token: 'by the' | Score: 298935.73 | Freq: 1356 | Difficulty: 14.00
+193. Token: 'ough' | Score: 297520.00 | Freq: 3719 | Difficulty: 9.00
+194. Token: ' his' | Score: 297160.00 | Freq: 7429 | Difficulty: 4.00
+195. Token: '". ' | Score: 296715.89 | Freq: 3359 | Difficulty: 16.00
+196. Token: 'en' | Score: 295774.28 | Freq: 52286 | Difficulty: 1.00
+197. Token: ',' | Score: 294870.00 | Freq: 58974 | Difficulty: 4.00
+198. Token: 'hat ' | Score: 294840.00 | Freq: 12285 | Difficulty: 2.00
+199. Token: 'her' | Score: 294434.78 | Freq: 18888 | Difficulty: 2.00
+200. Token: 'because' | Score: 294361.00 | Freq: 883 | Difficulty: 17.00
